@@ -1,0 +1,14 @@
+nav a {
+    text-decoration: none;
+}
+
+.vendor_dashboard_position {
+    display: flex;
+    justify-content: space-between;
+}
+
+.productTable img {
+    height: 120px;
+    width: 200px;
+    border-radius: 10%;
+}
